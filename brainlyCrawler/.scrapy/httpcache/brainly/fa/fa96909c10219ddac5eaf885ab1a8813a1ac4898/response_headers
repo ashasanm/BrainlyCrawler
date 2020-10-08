@@ -1,0 +1,14 @@
+Date: Wed, 19 Aug 2020 17:46:27 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 5c55b1ae0fb1170c-SIN
+Allow: GET, POST, HEAD, OPTIONS
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=3600; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Request-Id: 04a96d60c30000170c43ac1200000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip

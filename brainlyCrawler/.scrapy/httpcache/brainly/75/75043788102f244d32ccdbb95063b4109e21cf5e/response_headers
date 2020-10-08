@@ -1,0 +1,18 @@
+Date: Wed, 12 Aug 2020 16:44:41 GMT
+Content-Type: text/plain;charset=UTF-8
+Set-Cookie: __cfduid=dc83c44357f773405112fd0a1d6aa3dfe1597250681; expires=Fri, 11-Sep-20 16:44:41 GMT; path=/; domain=.brainly.co.id; HttpOnly; SameSite=Lax
+Cf-Ray: 5c1ba9977c6217af-SIN
+Accept-Ranges: bytes
+Age: 62
+Cache-Control: public, max-age=14400
+Content-Encoding: gzip
+Expires: Wed, 12 Aug 2020 20:44:41 GMT
+Strict-Transport-Security: max-age=3600; includeSubDomains
+Vary: Accept-Encoding, Accept-Encoding
+Cf-Cache-Status: HIT
+Cf-Request-Id: 04852852ad000017af1810e200000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Frame-Options: sameorigin
+X-Request-Uri: /robots.txt
+X-Xss-Protection: 1; mode=block
+Server: cloudflare

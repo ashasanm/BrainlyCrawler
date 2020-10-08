@@ -1,0 +1,17 @@
+Date: Thu, 20 Aug 2020 18:48:05 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 5c5e495a19eb19c1-SIN
+Allow: GET, POST, HEAD, OPTIONS
+Cache-Control: no-cache
+Set-Cookie: hl=id; expires=Fri, 20-Aug-2021 18:48:05 GMT; Max-Age=31536000; path=/
+Set-Cookie: experimentId=d82fbe06baa6bd38bd8f03ad1ba38b13d9d85c002e352ab1abb722736ca2fde2; path=/
+Set-Cookie: Zadanepl_cookie[Token][Guest]=a0faef951399461a906af716256c38ef49393bdfbba4c0c3e5fc2ca3e85cee6f60acfedb56685f4b; expires=Fri, 20-Aug-2021 18:48:05 GMT; Max-Age=31536000; path=/
+Strict-Transport-Security: max-age=3600; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Request-Id: 04aecc2c4b000019c1d8821200000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip
